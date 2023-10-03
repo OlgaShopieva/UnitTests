@@ -1,6 +1,6 @@
-package HW1;
+package hw1;
 
-import ru.shopieva.HW1.Calculator;
+import ru.shopieva.hw1.Calculator;
 
 import static org.assertj.core.api.Assertions.*;
 
