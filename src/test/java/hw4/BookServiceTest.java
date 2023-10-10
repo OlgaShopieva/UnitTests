@@ -1,11 +1,8 @@
 package hw4;
 
 import org.junit.jupiter.api.Test;
-import ru.shopieva.hw4.book.Book;
-import ru.shopieva.hw4.book.BookRepository;
-import ru.shopieva.hw4.book.BookService;
-
-import java.util.Map;
+import ru.shopieva.hw4.Book;
+import ru.shopieva.hw4.BookRepository;
 
 import static org.mockito.Mockito.*;
 
